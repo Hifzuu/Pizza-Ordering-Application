@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Programmin Assignment due January 21st 2022-AsusTuf-Hifzuu.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\hifzm\OneDrive - UCLan\C++\SEM1 ASSIGNMENT\Programmin Assignment due January 21st 2022\Source.cpp(23,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hifzm\OneDrive - UCLan\C++\SEM1 ASSIGNMENT\Programmin Assignment due January 21st 2022\Source.cpp(44,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hifzm\OneDrive - UCLan\C++\SEM1 ASSIGNMENT\Programmin Assignment due January 21st 2022\Source.cpp(82,5): warning C4551: function call missing argument list
+C:\Users\hifzm\OneDrive - UCLan\C++\SEM1 ASSIGNMENT\Programmin Assignment due January 21st 2022\Source.cpp(242,4): warning C4551: function call missing argument list
+  Programmin Assignment due January 21st 2022.vcxproj -> C:\Users\hifzm\OneDrive - UCLan\C++\SEM1 ASSIGNMENT\Debug\Programmin Assignment due January 21st 2022.exe
